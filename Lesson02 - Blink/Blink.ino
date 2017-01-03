@@ -2,9 +2,9 @@
   Blink
  */
 
-const int LED_PIN  = 13;
-const int ON_TIME  = 1000;
-const int OFF_TIME = 1000;
+#define LED_PIN  13
+#define ON_TIME  1000
+#define OFF_TIME 1000
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
