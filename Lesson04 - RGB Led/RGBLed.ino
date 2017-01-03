@@ -1,3 +1,9 @@
+/*
+  RGB Led
+
+  source - https://github.com/rgroszewski/arduino-tutorials/blob/master/Lesson04%20-%20RGB%20Led/RGBLed.ino
+ */
+
 #define RED_PIN   3
 #define GREEN_PIN 5
 #define BLUE_PIN  6

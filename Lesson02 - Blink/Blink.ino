@@ -1,5 +1,7 @@
 /*
   Blink
+
+  source - https://github.com/rgroszewski/arduino-tutorials/blob/master/Lesson02%20-%20Blink/Blink.ino
  */
 
 #define LED_PIN  13
