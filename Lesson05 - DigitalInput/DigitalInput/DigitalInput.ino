@@ -1,7 +1,7 @@
 /*
   Digital Input
 
-  source
+  source - https://github.com/rgroszewski/arduino-tutorials/blob/master/Lesson05%20-%20DigitalInput
  */
 
 #define redLedPin 5
